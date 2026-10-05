@@ -85,8 +85,8 @@ namespace D2RTerrorZone.Services
         {
             var oldCurrentOriginal = CurrentZone?.OriginalName;
             
-            // API 更新可能有延迟，这里实现文档中要求的短间隔重试策略: T+0, T+5, T+10, T+20, T+30...
-            int[] retryDelays = { 0, 5000, 5000, 10000, 10000, 15000 };
+            // API 更新可能有延迟，最多重试约 2 分钟 (0, 5, 5, 10, 10, 15, 15, 20, 20, 30)
+            int[] retryDelays = { 0, 5000, 5000, 10000, 10000, 15000, 15000, 20000, 20000, 30000 };
             
             for (int i = 0; i < retryDelays.Length; i++)
             {
@@ -94,10 +94,11 @@ namespace D2RTerrorZone.Services
 
                 if (retryDelays[i] > 0)
                 {
+                    StatusChanged?.Invoke("等待服务器刷新数据...");
                     await Task.Delay(retryDelays[i], token);
                 }
 
-                var success = await FetchAndUpdateAsync(false);
+                var success = await FetchAndUpdateAsync(true);
                 if (success && CurrentZone?.OriginalName != oldCurrentOriginal)
                 {
                     // 确认数据已经变化，跳出重试
@@ -110,7 +111,7 @@ namespace D2RTerrorZone.Services
             DataUpdated?.Invoke();
         }
 
-        private async Task<bool> FetchAndUpdateAsync(bool isStartup)
+        private async Task<bool> FetchAndUpdateAsync(bool hideNetworkError)
         {
             try
             {
@@ -125,17 +126,17 @@ namespace D2RTerrorZone.Services
                     return true;
                 }
                 
-                if (!isStartup)
+                if (!hideNetworkError)
                 {
-                    StatusChanged?.Invoke("网络暂时不可用，稍后重试");
+                    StatusChanged?.Invoke("等待服务器发布新数据...");
                 }
                 return false;
             }
             catch
             {
-                if (!isStartup)
+                if (!hideNetworkError)
                 {
-                    StatusChanged?.Invoke("网络暂时不可用，稍后重试");
+                    StatusChanged?.Invoke("等待服务器发布新数据...");
                 }
                 return false;
             }

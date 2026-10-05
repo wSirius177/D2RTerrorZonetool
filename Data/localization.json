@@ -1,18 +1,18 @@
 {
   "BURIAL_GROUNDS": {
     "en-US": "Burial Grounds",
-    "zh-CN": "冰冷之原的埋骨之地",
+    "zh-CN": "埋骨之地",
     "zh-TW": "埋骨之地"
   },
   "CRYPT": {
     "en-US": "Crypt",
-    "zh-CN": "寝陵",
-    "zh-TW": "墓穴"
+    "zh-CN": "墓穴",
+    "zh-TW": "墓地"
   },
   "MAUSOLEUM": {
     "en-US": "Mausoleum",
-    "zh-CN": "大陵寝",
-    "zh-TW": "大陵寢"
+    "zh-CN": "寝陵",
+    "zh-TW": "大陵墓"
   },
   "THE_MAUSOLEUM": {
     "en-US": "The Mausoleum",
@@ -26,7 +26,7 @@
   },
   "DEN_OF_EVIL": {
     "en-US": "Den of Evil",
-    "zh-CN": "邪恶洞窟",
+    "zh-CN": "邪恶洞穴",
     "zh-TW": "邪惡洞窟"
   },
   "THE_SECRET_COW_LEVEL": {
@@ -196,13 +196,13 @@
   },
   "DURANCE_OF_HATE": {
     "en-US": "Durance of Hate",
-    "zh-CN": "憎恨囚牢",
-    "zh-TW": "憎恨囚牢"
+    "zh-CN": "憎恨的囚牢",
+    "zh-TW": "憎恨的囚牢"
   },
   "FLAYER_DUNGEON": {
     "en-US": "Flayer Dungeon",
-    "zh-CN": "剥皮魔监牢",
-    "zh-TW": "剝皮地牢"
+    "zh-CN": "剥皮地窖",
+    "zh-TW": "剝皮地窖"
   },
   "SWAMPY_PIT": {
     "en-US": "Swampy Pit",
@@ -221,8 +221,8 @@
   },
   "TAL_RASHAS_TOMB": {
     "en-US": "Tal Rasha's Tomb",
-    "zh-CN": "塔·拉夏之墓",
-    "zh-TW": "塔拉夏的古墓"
+    "zh-CN": "塔·拉夏的古墓",
+    "zh-TW": "塔·拉夏的古墓"
   },
   "ANCIENT_TUNNELS": {
     "en-US": "Ancient Tunnels",
@@ -362,26 +362,26 @@
   "CLAW_VIPER_TEMPLE": {
     "en-US": "Claw Viper Temple",
     "zh-CN": "利爪蝮蛇神殿",
-    "zh-TW": "利爪蛇魔神殿"
+    "zh-TW": "利爪蝮蛇神殿"
   },
   "HALLS_OF_THE_DEAD": {
     "en-US": "Halls of the Dead",
-    "zh-CN": "亡者大殿",
+    "zh-CN": "死亡之殿",
     "zh-TW": "死亡之殿"
   },
   "STONY_TOMB": {
     "en-US": "Stony Tomb",
-    "zh-CN": "碎石古墓",
-    "zh-TW": "古老石墓"
+    "zh-CN": "石制古墓",
+    "zh-TW": "碎石古墓"
   },
   "PALACE_CELLAR": {
     "en-US": "Palace Cellar",
-    "zh-CN": "王宫监牢",
-    "zh-TW": "皇宮地窖"
+    "zh-CN": "皇宫监牢",
+    "zh-TW": "皇宮監牢"
   },
   "HAREM": {
     "en-US": "Harem",
-    "zh-CN": "女眷住处",
+    "zh-CN": "后宫",
     "zh-TW": "後宮"
   },
   "SEWERS": {
@@ -791,23 +791,8 @@
   },
   "FORGOTTEN_TOWER": {
     "en-US": "Forgotten Tower",
-    "zh-CN": "被遗忘的高塔",
-    "zh-TW": "遺忘之塔"
-  },
-  "MAUSOLEUM": {
-    "en-US": "Mausoleum",
-    "zh-CN": "寝陵",
-    "zh-TW": "大陵墓"
-  },
-  "CRYPT": {
-    "en-US": "Crypt",
-    "zh-CN": "墓穴",
-    "zh-TW": "墓地"
-  },
-  "BURIAL_GROUNDS": {
-    "en-US": "Burial Grounds",
-    "zh-CN": "埋骨之地",
-    "zh-TW": "埋骨之地"
+    "zh-CN": "遗忘高塔",
+    "zh-TW": "遺忘高塔"
   },
   "PIT_LEVEL_2": {
     "en-US": "Pit Level 2",
@@ -848,11 +833,6 @@
     "en-US": "Cave Level 1",
     "zh-CN": "洞穴一层",
     "zh-TW": "洞穴第一層"
-  },
-  "DEN_OF_EVIL": {
-    "en-US": "Den of Evil",
-    "zh-CN": "邪恶洞穴",
-    "zh-TW": "邪惡洞窟"
   },
   "TAMOE_HIGHLAND": {
     "en-US": "Tamoe Highland",
@@ -1369,19 +1349,34 @@
     "zh-CN": "世界之石大殿",
     "zh-TW": "世界之石大殿"
   },
-  "FORGOTTEN_TOWER": { "en-US": "Forgotten Tower", "zh-CN": "遗忘高塔", "zh-TW": "遺忘高塔" },
-  "JAIL": { "en-US": "Jail", "zh-CN": "监牢", "zh-TW": "監牢" },
-  "CATACOMBS": { "en-US": "Catacombs", "zh-CN": "地下墓穴", "zh-TW": "地下墓穴" },
-  "THE_PIT": { "en-US": "The Pit", "zh-CN": "地穴", "zh-TW": "地穴" },
-  "PIT": { "en-US": "Pit", "zh-CN": "地穴", "zh-TW": "地穴" },
-  "SEWERS": { "en-US": "Sewers", "zh-CN": "下水道", "zh-TW": "下水道" },
-  "STONY_TOMB": { "en-US": "Stony Tomb", "zh-CN": "石制古墓", "zh-TW": "碎石古墓" },
-  "HALLS_OF_THE_DEAD": { "en-US": "Halls of the Dead", "zh-CN": "死亡之殿", "zh-TW": "死亡之殿" },
-  "CLAW_VIPER_TEMPLE": { "en-US": "Claw Viper Temple", "zh-CN": "利爪蝮蛇神殿", "zh-TW": "利爪蝮蛇神殿" },
-  "HAREM": { "en-US": "Harem", "zh-CN": "后宫", "zh-TW": "後宮" },
-  "PALACE_CELLAR": { "en-US": "Palace Cellar", "zh-CN": "皇宫监牢", "zh-TW": "皇宮監牢" },
-  "TAL_RASHAS_TOMBS": { "en-US": "Tal Rasha's Tombs", "zh-CN": "塔·拉夏的古墓", "zh-TW": "塔·拉夏的古墓" },
-  "TAL_RASHAS_TOMB": { "en-US": "Tal Rasha's Tomb", "zh-CN": "塔·拉夏的古墓", "zh-TW": "塔·拉夏的古墓" },
-  "FLAYER_DUNGEON": { "en-US": "Flayer Dungeon", "zh-CN": "剥皮地窖", "zh-TW": "剝皮地窖" },
-  "DURANCE_OF_HATE": { "en-US": "Durance of Hate", "zh-CN": "憎恨的囚牢", "zh-TW": "憎恨的囚牢" }
+  "JAIL": {
+    "en-US": "Jail",
+    "zh-CN": "监牢",
+    "zh-TW": "監牢"
+  },
+  "CATACOMBS": {
+    "en-US": "Catacombs",
+    "zh-CN": "地下墓穴",
+    "zh-TW": "地下墓穴"
+  },
+  "THE_PIT": {
+    "en-US": "The Pit",
+    "zh-CN": "地穴",
+    "zh-TW": "地穴"
+  },
+  "PIT": {
+    "en-US": "Pit",
+    "zh-CN": "地穴",
+    "zh-TW": "地穴"
+  },
+  "TAL_RASHAS_TOMBS": {
+    "en-US": "Tal Rasha's Tombs",
+    "zh-CN": "塔·拉夏的古墓",
+    "zh-TW": "塔·拉夏的古墓"
+  },
+  "LUT_GHOLEIN_SEWERS": {
+    "en-US": "Lut Gholein Sewers",
+    "zh-CN": "鲁高因下水道",
+    "zh-TW": "魯高因下水道"
+  }
 }
