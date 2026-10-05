@@ -1,0 +1,77 @@
+## =========================================================================
+## 构建输出与二进制产物 (Build Outputs & Binaries)
+## =========================================================================
+bin/
+obj/
+[Bb]in/
+[Oo]bj/
+*.exe
+*.dll
+*.pdb
+*.msi
+*.appx
+
+## =========================================================================
+## IDE 与编辑器专属缓存及用户配置 (IDE & Editor Personal Settings)
+## =========================================================================
+# Visual Studio
+.vs/
+*.user
+*.userosscache
+*.suo
+*.userprefs
+*.sln.docstates
+*.ide/
+UpgradeLog.htm
+UpgradeLog.XML
+
+# Visual Studio Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.history/
+
+# JetBrains Rider / ReSharper
+_ReSharper*/
+*.ReSharper
+*.DotSettings.user
+.idea/
+
+## =========================================================================
+## 隐私、密码、本地环境与密钥文件 (Secrets & Environment Files)
+## =========================================================================
+*.env
+*.env.local
+*.env.*.local
+*.pfx
+*.p12
+*.key
+*.pem
+*.secret
+*credentials*
+*token*
+appsettings.Development.json
+appsettings.Local.json
+local.settings.json
+
+## =========================================================================
+## 运行时与系统临时文件 (Logs, Temp & OS Files)
+## =========================================================================
+*.log
+*.tmp
+*.bak
+*.swp
+*~
+Thumbs.db
+[Dd]esktop.ini
+.DS_Store
+
+## =========================================================================
+## Python 脚本产生的缓存（如果运行了 parse.py）
+## =========================================================================
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/

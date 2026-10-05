@@ -1,0 +1,1387 @@
+{
+  "BURIAL_GROUNDS": {
+    "en-US": "Burial Grounds",
+    "zh-CN": "冰冷之原的埋骨之地",
+    "zh-TW": "埋骨之地"
+  },
+  "CRYPT": {
+    "en-US": "Crypt",
+    "zh-CN": "寝陵",
+    "zh-TW": "墓穴"
+  },
+  "MAUSOLEUM": {
+    "en-US": "Mausoleum",
+    "zh-CN": "大陵寝",
+    "zh-TW": "大陵寢"
+  },
+  "THE_MAUSOLEUM": {
+    "en-US": "The Mausoleum",
+    "zh-CN": "大陵寝",
+    "zh-TW": "大陵寢"
+  },
+  "THE_CAVE": {
+    "en-US": "The Cave",
+    "zh-CN": "洞窟",
+    "zh-TW": "洞窟"
+  },
+  "DEN_OF_EVIL": {
+    "en-US": "Den of Evil",
+    "zh-CN": "邪恶洞窟",
+    "zh-TW": "邪惡洞窟"
+  },
+  "THE_SECRET_COW_LEVEL": {
+    "en-US": "The Secret Cow Level",
+    "zh-CN": "神秘的奶牛关",
+    "zh-TW": "秘密乳牛關"
+  },
+  "THE_CHAOS_SANCTUARY": {
+    "en-US": "The Chaos Sanctuary",
+    "zh-CN": "混沌避难所",
+    "zh-TW": "混沌魔殿"
+  },
+  "THE_PANDEMONIUM_FORTRESS": {
+    "en-US": "The Pandemonium Fortress",
+    "zh-CN": "混沌要塞",
+    "zh-TW": "混沌界要塞"
+  },
+  "RIVER_OF_FLAME": {
+    "en-US": "River of Flame",
+    "zh-CN": "火焰之河",
+    "zh-TW": "火焰之河"
+  },
+  "OUTER_STEPPES": {
+    "en-US": "Outer Steppes",
+    "zh-CN": "外域荒原",
+    "zh-TW": "外圍荒原"
+  },
+  "PLAINS_OF_DESPAIR": {
+    "en-US": "Plains of Despair",
+    "zh-CN": "绝望平原",
+    "zh-TW": "絕望平原"
+  },
+  "CITY_OF_THE_DAMNED": {
+    "en-US": "City of the Damned",
+    "zh-CN": "神罚之城",
+    "zh-TW": "罪罰之城"
+  },
+  "DURANCE_OF_HATE_LEVEL_3": {
+    "en-US": "Durance of Hate Level 3",
+    "zh-CN": "憎恨囚牢三层",
+    "zh-TW": "憎恨囚牢第三層"
+  },
+  "DURANCE_OF_HATE_LEVEL_2": {
+    "en-US": "Durance of Hate Level 2",
+    "zh-CN": "憎恨囚牢二层",
+    "zh-TW": "憎恨囚牢第二層"
+  },
+  "DURANCE_OF_HATE_LEVEL_1": {
+    "en-US": "Durance of Hate Level 1",
+    "zh-CN": "憎恨囚牢一层",
+    "zh-TW": "憎恨囚牢第一層"
+  },
+  "DISUSED_RELIQUARY": {
+    "en-US": "Disused Reliquary",
+    "zh-CN": "废弃的藏骨室",
+    "zh-TW": "廢棄的聖殿"
+  },
+  "RUINED_FANE": {
+    "en-US": "Ruined Fane",
+    "zh-CN": "被毁的礼拜堂",
+    "zh-TW": "荒廢的寺院"
+  },
+  "FORGOTTEN_TEMPLE": {
+    "en-US": "Forgotten Temple",
+    "zh-CN": "被遗忘的神殿",
+    "zh-TW": "遺忘神殿"
+  },
+  "FORGOTTEN_RELIQUARY": {
+    "en-US": "Forgotten Reliquary",
+    "zh-CN": "被遗忘的藏骨室",
+    "zh-TW": "遺忘的聖殿"
+  },
+  "DISUSED_FANE": {
+    "en-US": "Disused Fane",
+    "zh-CN": "废弃的礼拜堂",
+    "zh-TW": "廢棄的寺院"
+  },
+  "RUINED_TEMPLE": {
+    "en-US": "Ruined Temple",
+    "zh-CN": "毁灭的神庙",
+    "zh-TW": "荒廢的神殿"
+  },
+  "FLAYER_DUNGEON_LEVEL_3": {
+    "en-US": "Flayer Dungeon Level 3",
+    "zh-CN": "剥皮魔监牢三层",
+    "zh-TW": "剝皮地牢第三層"
+  },
+  "FLAYER_DUNGEON_LEVEL_2": {
+    "en-US": "Flayer Dungeon Level 2",
+    "zh-CN": "剥皮魔监牢二层",
+    "zh-TW": "剝皮地牢第二層"
+  },
+  "FLAYER_DUNGEON_LEVEL_1": {
+    "en-US": "Flayer Dungeon Level 1",
+    "zh-CN": "剥皮魔监牢一层",
+    "zh-TW": "剝皮地牢第一層"
+  },
+  "SWAMPY_PIT_LEVEL_3": {
+    "en-US": "Swampy Pit Level 3",
+    "zh-CN": "沼泽陷坑三层",
+    "zh-TW": "沼澤地穴第三層"
+  },
+  "SWAMPY_PIT_LEVEL_2": {
+    "en-US": "Swampy Pit Level 2",
+    "zh-CN": "沼泽陷坑二层",
+    "zh-TW": "沼澤地穴第二層"
+  },
+  "SWAMPY_PIT_LEVEL_1": {
+    "en-US": "Swampy Pit Level 1",
+    "zh-CN": "沼泽陷坑一层",
+    "zh-TW": "沼澤地穴第一層"
+  },
+  "ARACHNID_LAIR": {
+    "en-US": "Arachnid Lair",
+    "zh-CN": "巨蛛巢穴",
+    "zh-TW": "蜘蛛巢穴"
+  },
+  "SPIDER_CAVERN": {
+    "en-US": "Spider Cavern",
+    "zh-CN": "蜘蛛洞穴",
+    "zh-TW": "蜘蛛洞窟"
+  },
+  "TRAVINCAL": {
+    "en-US": "Travincal",
+    "zh-CN": "崔凡克",
+    "zh-TW": "崔凡克"
+  },
+  "KURAST_CAUSEWAY": {
+    "en-US": "Kurast Causeway",
+    "zh-CN": "库拉斯特堤道",
+    "zh-TW": "庫拉斯特堤道"
+  },
+  "UPPER_KURAST": {
+    "en-US": "Upper Kurast",
+    "zh-CN": "库拉斯特上层区",
+    "zh-TW": "庫拉斯特上層"
+  },
+  "KURAST_BAZAAR": {
+    "en-US": "Kurast Bazaar",
+    "zh-CN": "库拉斯特集市",
+    "zh-TW": "庫拉斯特市集"
+  },
+  "LOWER_KURAST": {
+    "en-US": "Lower Kurast",
+    "zh-CN": "库拉斯特下层区",
+    "zh-TW": "庫拉斯特下層"
+  },
+  "FLAYER_JUNGLE": {
+    "en-US": "Flayer Jungle",
+    "zh-CN": "剥皮魔丛林",
+    "zh-TW": "剝皮叢林"
+  },
+  "GREAT_MARSH": {
+    "en-US": "Great Marsh",
+    "zh-CN": "庞大湿地",
+    "zh-TW": "大沼澤"
+  },
+  "SPIDER_FOREST": {
+    "en-US": "Spider Forest",
+    "zh-CN": "蜘蛛森林",
+    "zh-TW": "蜘蛛森林"
+  },
+  "KURAST_DOCKS": {
+    "en-US": "Kurast Docks",
+    "zh-CN": "库拉斯特海港",
+    "zh-TW": "庫拉斯特港口"
+  },
+  "DURANCE_OF_HATE": {
+    "en-US": "Durance of Hate",
+    "zh-CN": "憎恨囚牢",
+    "zh-TW": "憎恨囚牢"
+  },
+  "FLAYER_DUNGEON": {
+    "en-US": "Flayer Dungeon",
+    "zh-CN": "剥皮魔监牢",
+    "zh-TW": "剝皮地牢"
+  },
+  "SWAMPY_PIT": {
+    "en-US": "Swampy Pit",
+    "zh-CN": "沼泽陷坑",
+    "zh-TW": "沼澤地穴"
+  },
+  "ARCANE_SANCTUARY": {
+    "en-US": "Arcane Sanctuary",
+    "zh-CN": "神秘避难所",
+    "zh-TW": "秘法聖殿"
+  },
+  "TAL_RASHAS_CHAMBER": {
+    "en-US": "Tal Rasha's Chamber",
+    "zh-CN": "塔·拉夏的墓室",
+    "zh-TW": "塔拉夏的密室"
+  },
+  "TAL_RASHAS_TOMB": {
+    "en-US": "Tal Rasha's Tomb",
+    "zh-CN": "塔·拉夏之墓",
+    "zh-TW": "塔拉夏的古墓"
+  },
+  "ANCIENT_TUNNELS": {
+    "en-US": "Ancient Tunnels",
+    "zh-CN": "古代水道",
+    "zh-TW": "古代通道"
+  },
+  "MAGGOT_LAIR_LEVEL_3": {
+    "en-US": "Maggot Lair Level 3",
+    "zh-CN": "蛆虫巢穴三层",
+    "zh-TW": "蛆蟲巢穴第三層"
+  },
+  "MAGGOT_LAIR_LEVEL_2": {
+    "en-US": "Maggot Lair Level 2",
+    "zh-CN": "蛆虫巢穴二层",
+    "zh-TW": "蛆蟲巢穴第二層"
+  },
+  "MAGGOT_LAIR_LEVEL_1": {
+    "en-US": "Maggot Lair Level 1",
+    "zh-CN": "蛆虫巢穴一层",
+    "zh-TW": "蛆蟲巢穴第一層"
+  },
+  "CLAW_VIPER_TEMPLE_LEVEL_2": {
+    "en-US": "Claw Viper Temple Level 2",
+    "zh-CN": "利爪腹蛇神庙二层",
+    "zh-TW": "利爪蛇魔神殿第二層"
+  },
+  "HALLS_OF_THE_DEAD_LEVEL_3": {
+    "en-US": "Halls of the Dead Level 3",
+    "zh-CN": "亡者大殿三层",
+    "zh-TW": "死亡之殿第三層"
+  },
+  "STONY_TOMB_LEVEL_2": {
+    "en-US": "Stony Tomb Level 2",
+    "zh-CN": "碎石古墓二层",
+    "zh-TW": "古老石墓第二層"
+  },
+  "CLAW_VIPER_TEMPLE_LEVEL_1": {
+    "en-US": "Claw Viper Temple Level 1",
+    "zh-CN": "利爪蝮蛇神殿一层",
+    "zh-TW": "利爪蛇魔神殿第一層"
+  },
+  "HALLS_OF_THE_DEAD_LEVEL_2": {
+    "en-US": "Halls of the Dead Level 2",
+    "zh-CN": "亡者大殿二层",
+    "zh-TW": "死亡之殿第二層"
+  },
+  "HALLS_OF_THE_DEAD_LEVEL_1": {
+    "en-US": "Halls of the Dead Level 1",
+    "zh-CN": "亡者大殿一层",
+    "zh-TW": "死亡之殿第一層"
+  },
+  "STONY_TOMB_LEVEL_1": {
+    "en-US": "Stony Tomb Level 1",
+    "zh-CN": "碎石古墓一层",
+    "zh-TW": "古老石墓第一層"
+  },
+  "PALACE_CELLAR_LEVEL_3": {
+    "en-US": "Palace Cellar Level 3",
+    "zh-CN": "王宫监牢三层",
+    "zh-TW": "皇宮地窖第三層"
+  },
+  "PALACE_CELLAR_LEVEL_2": {
+    "en-US": "Palace Cellar Level 2",
+    "zh-CN": "王宫监牢二层",
+    "zh-TW": "皇宮地窖第二層"
+  },
+  "PALACE_CELLAR_LEVEL_1": {
+    "en-US": "Palace Cellar Level 1",
+    "zh-CN": "王宫监牢一层",
+    "zh-TW": "皇宮地窖第一層"
+  },
+  "HAREM_LEVEL_2": {
+    "en-US": "Harem Level 2",
+    "zh-CN": "女眷住处二层",
+    "zh-TW": "後宮第二層"
+  },
+  "HAREM_LEVEL_1": {
+    "en-US": "Harem Level 1",
+    "zh-CN": "女眷住处一层",
+    "zh-TW": "後宮第一層"
+  },
+  "SEWERS_LEVEL_3": {
+    "en-US": "Sewers Level 3",
+    "zh-CN": "下水道三层",
+    "zh-TW": "下水道第三層"
+  },
+  "SEWERS_LEVEL_2": {
+    "en-US": "Sewers Level 2",
+    "zh-CN": "下水道二层",
+    "zh-TW": "下水道第二層"
+  },
+  "SEWERS_LEVEL_1": {
+    "en-US": "Sewers Level 1",
+    "zh-CN": "下水道一层",
+    "zh-TW": "下水道第一層"
+  },
+  "CANYON_OF_THE_MAGI": {
+    "en-US": "Canyon of the Magi",
+    "zh-CN": "法师峡谷",
+    "zh-TW": "賢者之谷"
+  },
+  "VALLEY_OF_SNAKES": {
+    "en-US": "Valley of Snakes",
+    "zh-CN": "群蛇峡谷",
+    "zh-TW": "群蛇峽谷"
+  },
+  "LOST_CITY": {
+    "en-US": "Lost City",
+    "zh-CN": "失落之城",
+    "zh-TW": "失落古城"
+  },
+  "FAR_OASIS": {
+    "en-US": "Far Oasis",
+    "zh-CN": "偏远绿洲",
+    "zh-TW": "遙遠的綠洲"
+  },
+  "DRY_HILLS": {
+    "en-US": "Dry Hills",
+    "zh-CN": "干燥高地",
+    "zh-TW": "乾土高地"
+  },
+  "ROCKY_WASTE": {
+    "en-US": "Rocky Waste",
+    "zh-CN": "碎石荒野",
+    "zh-TW": "碎石荒地"
+  },
+  "LUT_GHOLEIN": {
+    "en-US": "Lut Gholein",
+    "zh-CN": "鲁·高因",
+    "zh-TW": "魯高因"
+  },
+  "MAGGOT_LAIR": {
+    "en-US": "Maggot Lair",
+    "zh-CN": "蛆虫巢穴",
+    "zh-TW": "蛆蟲巢穴"
+  },
+  "CLAW_VIPER_TEMPLE": {
+    "en-US": "Claw Viper Temple",
+    "zh-CN": "利爪蝮蛇神殿",
+    "zh-TW": "利爪蛇魔神殿"
+  },
+  "HALLS_OF_THE_DEAD": {
+    "en-US": "Halls of the Dead",
+    "zh-CN": "亡者大殿",
+    "zh-TW": "死亡之殿"
+  },
+  "STONY_TOMB": {
+    "en-US": "Stony Tomb",
+    "zh-CN": "碎石古墓",
+    "zh-TW": "古老石墓"
+  },
+  "PALACE_CELLAR": {
+    "en-US": "Palace Cellar",
+    "zh-CN": "王宫监牢",
+    "zh-TW": "皇宮地窖"
+  },
+  "HAREM": {
+    "en-US": "Harem",
+    "zh-CN": "女眷住处",
+    "zh-TW": "後宮"
+  },
+  "SEWERS": {
+    "en-US": "Sewers",
+    "zh-CN": "下水道",
+    "zh-TW": "下水道"
+  },
+  "TO_THE_SECRET_COW_LEVEL": {
+    "en-US": "To The Secret Cow Level",
+    "zh-CN": "前往神秘的奶牛关",
+    "zh-TW": "前往秘密乳牛關"
+  },
+  "TO_THE_CHAOS_SANCTUARY": {
+    "en-US": "To The Chaos Sanctuary",
+    "zh-CN": "前往混沌避难所",
+    "zh-TW": "前往混沌魔殿"
+  },
+  "TO_THE_RIVER_OF_FLAME": {
+    "en-US": "To The River of Flame",
+    "zh-CN": "前往火焰之河",
+    "zh-TW": "前往火焰之河"
+  },
+  "TO_THE_OUTER_STEPPES": {
+    "en-US": "To The Outer Steppes",
+    "zh-CN": "前往外域荒原",
+    "zh-TW": "前往外圍荒原"
+  },
+  "TO_THE_PLAINS_OF_DESPAIR": {
+    "en-US": "To The Plains of Despair",
+    "zh-CN": "前往绝望平原",
+    "zh-TW": "前往絕望平原"
+  },
+  "TO_THE_CITY_OF_THE_DAMNED": {
+    "en-US": "To The City of the Damned",
+    "zh-CN": "前往神罚之城",
+    "zh-TW": "前往罪罰之城"
+  },
+  "TO_THE_PANDEMONIUM_FORTRESS": {
+    "en-US": "To The Pandemonium Fortress",
+    "zh-CN": "前往混沌要塞",
+    "zh-TW": "前往混沌界要塞"
+  },
+  "TO_THE_DURANCE_OF_HATE_LEVEL_3": {
+    "en-US": "To The Durance of Hate Level 3",
+    "zh-CN": "前往憎恨囚牢三层",
+    "zh-TW": "前往憎恨囚牢第三層"
+  },
+  "TO_THE_DURANCE_OF_HATE_LEVEL_2": {
+    "en-US": "To The Durance of Hate Level 2",
+    "zh-CN": "前往憎恨囚牢二层",
+    "zh-TW": "前往憎恨囚牢第二層"
+  },
+  "TO_THE_DURANCE_OF_HATE_LEVEL_1": {
+    "en-US": "To The Durance of Hate Level 1",
+    "zh-CN": "前往憎恨囚牢一层",
+    "zh-TW": "前往憎恨囚牢第一層"
+  },
+  "TO_THE_DISUSED_RELIQUARY": {
+    "en-US": "To The Disused Reliquary",
+    "zh-CN": "前往废弃的藏骨室",
+    "zh-TW": "前往廢棄的聖殿"
+  },
+  "TO_THE_RUINED_FANE": {
+    "en-US": "To The Ruined Fane",
+    "zh-CN": "前往被毁的礼拜堂",
+    "zh-TW": "前往荒廢的寺院"
+  },
+  "TO_THE_FORGOTTEN_TEMPLE": {
+    "en-US": "To The Forgotten Temple",
+    "zh-CN": "前往被遗忘的神殿",
+    "zh-TW": "前往遺忘神殿"
+  },
+  "TO_THE_FORGOTTEN_RELIQUARY": {
+    "en-US": "To The Forgotten Reliquary",
+    "zh-CN": "前往被遗忘的藏骨室",
+    "zh-TW": "前往遺忘的聖殿"
+  },
+  "TO_THE_DISUSED_FANE": {
+    "en-US": "To The Disused Fane",
+    "zh-CN": "前往废弃的礼拜堂",
+    "zh-TW": "前往廢棄的寺院"
+  },
+  "TO_THE_RUINED_TEMPLE": {
+    "en-US": "To The Ruined Temple",
+    "zh-CN": "前往毁灭的神庙",
+    "zh-TW": "前往荒廢的神殿"
+  },
+  "TO_THE_FLAYER_DUNGEON_LEVEL_1": {
+    "en-US": "To The Flayer Dungeon Level 1",
+    "zh-CN": "前往剥皮魔监牢一层",
+    "zh-TW": "前往剝皮地牢第一層"
+  },
+  "TO_THE_FLAYER_DUNGEON_LEVEL_2": {
+    "en-US": "To The Flayer Dungeon Level 2",
+    "zh-CN": "前往剥皮魔监牢二层",
+    "zh-TW": "前往剝皮地牢第二層"
+  },
+  "TO_THE_FLAYER_DUNGEON_LEVEL_3": {
+    "en-US": "To The Flayer Dungeon Level 3",
+    "zh-CN": "前往剥皮魔监牢三层",
+    "zh-TW": "前往剝皮地牢第三層"
+  },
+  "TO_THE_SWAMPY_PIT_LEVEL_3": {
+    "en-US": "To The Swampy Pit Level 3",
+    "zh-CN": "前往沼泽陷坑三层",
+    "zh-TW": "前往沼澤地穴第三層"
+  },
+  "TO_THE_SWAMPY_PIT_LEVEL_2": {
+    "en-US": "To The Swampy Pit Level 2",
+    "zh-CN": "前往沼泽陷坑二层",
+    "zh-TW": "前往沼澤地穴第二層"
+  },
+  "TO_THE_SWAMPY_PIT_LEVEL_1": {
+    "en-US": "To The Swampy Pit Level 1",
+    "zh-CN": "前往沼泽陷坑一层",
+    "zh-TW": "前往沼澤地穴第一層"
+  },
+  "TO_THE_ARACHNID_LAIR": {
+    "en-US": "To The Arachnid Lair",
+    "zh-CN": "前往巨蛛巢穴",
+    "zh-TW": "前往蜘蛛巢穴"
+  },
+  "TO_THE_SPIDER_CAVERN": {
+    "en-US": "To The Spider Cavern",
+    "zh-CN": "前往蜘蛛洞穴",
+    "zh-TW": "前往蜘蛛洞窟"
+  },
+  "TO_TRAVINCAL": {
+    "en-US": "To Travincal",
+    "zh-CN": "前往崔凡克",
+    "zh-TW": "前往崔凡克"
+  },
+  "TO_THE_KURAST_CAUSEWAY": {
+    "en-US": "To The Kurast Causeway",
+    "zh-CN": "前往库拉斯特堤道",
+    "zh-TW": "前往庫拉斯特堤道"
+  },
+  "TO_UPPER_KURAST": {
+    "en-US": "To Upper Kurast",
+    "zh-CN": "前往库拉斯特上层区",
+    "zh-TW": "前往庫拉斯特上層"
+  },
+  "TO_THE_KURAST_BAZAAR": {
+    "en-US": "To The Kurast Bazaar",
+    "zh-CN": "前往库拉斯特集市",
+    "zh-TW": "前往庫拉斯特市集"
+  },
+  "TO_LOWER_KURAST": {
+    "en-US": "To Lower Kurast",
+    "zh-CN": "前往库拉斯特下层区",
+    "zh-TW": "前往庫拉斯特下層"
+  },
+  "TO_THE_FLAYER_JUNGLE": {
+    "en-US": "To The Flayer Jungle",
+    "zh-CN": "前往剥皮魔丛林",
+    "zh-TW": "前往剝皮叢林"
+  },
+  "TO_THE_GREAT_MARSH": {
+    "en-US": "To The Great Marsh",
+    "zh-CN": "前往庞大湿地",
+    "zh-TW": "前往大沼澤"
+  },
+  "TO_THE_SPIDER_FOREST": {
+    "en-US": "To The Spider Forest",
+    "zh-CN": "前往蜘蛛森林",
+    "zh-TW": "前往蜘蛛森林"
+  },
+  "TO_THE_KURAST_DOCKS": {
+    "en-US": "To The Kurast Docks",
+    "zh-CN": "前往库拉斯特海港",
+    "zh-TW": "前往庫拉斯特港口"
+  },
+  "TO_THE_ARCANE_SANCTUARY": {
+    "en-US": "To The Arcane Sanctuary",
+    "zh-CN": "前往神秘避难所",
+    "zh-TW": "前往秘法聖殿"
+  },
+  "TO_TAL_RASHAS_CHAMBER": {
+    "en-US": "To Tal Rasha's Chamber",
+    "zh-CN": "前往塔·拉夏的墓室",
+    "zh-TW": "前往塔拉夏的密室"
+  },
+  "TO_TAL_RASHAS_TOMB": {
+    "en-US": "To Tal Rasha's Tomb",
+    "zh-CN": "前往塔·拉夏之墓",
+    "zh-TW": "前往塔拉夏的古墓"
+  },
+  "TO_THE_ANCIENT_TUNNELS": {
+    "en-US": "To The Ancient Tunnels",
+    "zh-CN": "前往古代水道",
+    "zh-TW": "前往古代通道"
+  },
+  "TO_THE_MAGGOT_LAIR_LEVEL_3": {
+    "en-US": "To The Maggot Lair Level 3",
+    "zh-CN": "前往蛆虫巢穴三层",
+    "zh-TW": "前往蛆蟲巢穴第三層"
+  },
+  "TO_THE_MAGGOT_LAIR_LEVEL_2": {
+    "en-US": "To The Maggot Lair Level 2",
+    "zh-CN": "前往蛆虫巢穴二层",
+    "zh-TW": "前往蛆蟲巢穴第二層"
+  },
+  "TO_THE_MAGGOT_LAIR_LEVEL_1": {
+    "en-US": "To The Maggot Lair Level 1",
+    "zh-CN": "前往蛆虫巢穴一层",
+    "zh-TW": "前往蛆蟲巢穴第一層"
+  },
+  "TO_THE_CLAW_VIPER_TEMPLE_LEVEL_2": {
+    "en-US": "To The Claw Viper Temple Level 2",
+    "zh-CN": "前往利爪蝮蛇神殿二层",
+    "zh-TW": "前往利爪蛇魔神殿第二層"
+  },
+  "TO_THE_HALLS_OF_THE_DEAD_LEVEL_3": {
+    "en-US": "To The Halls of the Dead Level 3",
+    "zh-CN": "前往亡者大殿三层",
+    "zh-TW": "前往死亡之殿第三層"
+  },
+  "TO_THE_STONY_TOMB_LEVEL_2": {
+    "en-US": "To The Stony Tomb Level 2",
+    "zh-CN": "前往碎石古墓二层",
+    "zh-TW": "前往古老石墓第二層"
+  },
+  "TO_THE_CLAW_VIPER_TEMPLE_LEVEL_1": {
+    "en-US": "To The Claw Viper Temple Level 1",
+    "zh-CN": "前往利爪蝮蛇神殿一层",
+    "zh-TW": "前往利爪蛇魔神殿第一層"
+  },
+  "TO_THE_HALLS_OF_THE_DEAD_LEVEL_2": {
+    "en-US": "To The Halls of the Dead Level 2",
+    "zh-CN": "前往亡者大殿二层",
+    "zh-TW": "前往死亡之殿第二層"
+  },
+  "TO_THE_HALLS_OF_THE_DEAD_LEVEL_1": {
+    "en-US": "To The Halls of the Dead Level 1",
+    "zh-CN": "前往亡者大殿一层",
+    "zh-TW": "前往死亡之殿第一層"
+  },
+  "TO_THE_STONY_TOMB_LEVEL_1": {
+    "en-US": "To The Stony Tomb Level 1",
+    "zh-CN": "前往碎石古墓一层",
+    "zh-TW": "前往古老石墓第一層"
+  },
+  "TO_THE_PALACE_CELLAR_LEVEL_3": {
+    "en-US": "To The Palace Cellar Level 3",
+    "zh-CN": "前往王宫监牢三层",
+    "zh-TW": "前往皇宮地窖第三層"
+  },
+  "TO_THE_PALACE_CELLAR_LEVEL_2": {
+    "en-US": "To The Palace Cellar Level 2",
+    "zh-CN": "前往王宫监牢二层",
+    "zh-TW": "前往皇宮地窖第二層"
+  },
+  "TO_THE_PALACE_CELLAR_LEVEL_1": {
+    "en-US": "To The Palace Cellar Level 1",
+    "zh-CN": "前往王宫监牢一层",
+    "zh-TW": "前往皇宮地窖第一層"
+  },
+  "TO_THE_HAREM_LEVEL_2": {
+    "en-US": "To The Harem Level 2",
+    "zh-CN": "前往女眷住处二层",
+    "zh-TW": "前往後宮第二層"
+  },
+  "TO_THE_HAREM_LEVEL_1": {
+    "en-US": "To The Harem Level 1",
+    "zh-CN": "前往女眷住处一层",
+    "zh-TW": "前往後宮第一層"
+  },
+  "TO_THE_SEWERS_LEVEL_3": {
+    "en-US": "To The Sewers Level 3",
+    "zh-CN": "前往下水道三层",
+    "zh-TW": "前往下水道第三層"
+  },
+  "TO_THE_SEWERS_LEVEL_2": {
+    "en-US": "To The Sewers Level 2",
+    "zh-CN": "前往下水道二层",
+    "zh-TW": "前往下水道第二層"
+  },
+  "TO_THE_SEWERS_LEVEL_1": {
+    "en-US": "To The Sewers Level 1",
+    "zh-CN": "前往下水道一层",
+    "zh-TW": "前往下水道第一層"
+  },
+  "TO_THE_CANYON_OF_THE_MAGI": {
+    "en-US": "To The Canyon of the Magi",
+    "zh-CN": "前往法师峡谷",
+    "zh-TW": "前往賢者之谷"
+  },
+  "TO_THE_VALLEY_OF_SNAKES": {
+    "en-US": "To The Valley of Snakes",
+    "zh-CN": "前往群蛇峡谷",
+    "zh-TW": "前往群蛇峽谷"
+  },
+  "TO_THE_LOST_CITY": {
+    "en-US": "To The Lost City",
+    "zh-CN": "前往失落之城",
+    "zh-TW": "前往失落古城"
+  },
+  "TO_THE_FAR_OASIS": {
+    "en-US": "To The Far Oasis",
+    "zh-CN": "前往偏远绿洲",
+    "zh-TW": "前往遙遠的綠洲"
+  },
+  "TO_THE_DRY_HILLS": {
+    "en-US": "To The Dry Hills",
+    "zh-CN": "前往干燥高地",
+    "zh-TW": "前往乾土高地"
+  },
+  "TO_THE_ROCKY_WASTE": {
+    "en-US": "To The Rocky Waste",
+    "zh-CN": "前往碎石荒野",
+    "zh-TW": "前往碎石荒地"
+  },
+  "TO_LUT_GHOLEIN": {
+    "en-US": "To Lut Gholein",
+    "zh-CN": "前往鲁·高因",
+    "zh-TW": "前往魯高因"
+  },
+  "TRISTRAM": {
+    "en-US": "Tristram",
+    "zh-CN": "崔斯特姆",
+    "zh-TW": "崔斯特姆"
+  },
+  "CATACOMBS_LEVEL_4": {
+    "en-US": "Catacombs Level 4",
+    "zh-CN": "地下墓穴四层",
+    "zh-TW": "地下墓穴第四層"
+  },
+  "CATACOMBS_LEVEL_3": {
+    "en-US": "Catacombs Level 3",
+    "zh-CN": "地下墓穴三层",
+    "zh-TW": "地下墓穴第三層"
+  },
+  "CATACOMBS_LEVEL_2": {
+    "en-US": "Catacombs Level 2",
+    "zh-CN": "地下墓穴二层",
+    "zh-TW": "地下墓穴第二層"
+  },
+  "CATACOMBS_LEVEL_1": {
+    "en-US": "Catacombs Level 1",
+    "zh-CN": "地下墓穴一层",
+    "zh-TW": "地下墓穴第一層"
+  },
+  "CATHEDRAL": {
+    "en-US": "Cathedral",
+    "zh-CN": "大教堂",
+    "zh-TW": "大教堂"
+  },
+  "INNER_CLOISTER": {
+    "en-US": "Inner Cloister",
+    "zh-CN": "内侧回廊",
+    "zh-TW": "內側迴廊"
+  },
+  "JAIL_LEVEL_3": {
+    "en-US": "Jail Level 3",
+    "zh-CN": "监牢三层",
+    "zh-TW": "監牢第三層"
+  },
+  "JAIL_LEVEL_2": {
+    "en-US": "Jail Level 2",
+    "zh-CN": "监牢二层",
+    "zh-TW": "監牢第二層"
+  },
+  "JAIL_LEVEL_1": {
+    "en-US": "Jail Level 1",
+    "zh-CN": "监牢一层",
+    "zh-TW": "監牢第一層"
+  },
+  "BARRACKS": {
+    "en-US": "Barracks",
+    "zh-CN": "营房",
+    "zh-TW": "兵營"
+  },
+  "OUTER_CLOISTER": {
+    "en-US": "Outer Cloister",
+    "zh-CN": "外侧回廊",
+    "zh-TW": "外側迴廊"
+  },
+  "MONASTERY_GATE": {
+    "en-US": "Monastery Gate",
+    "zh-CN": "修道院大门",
+    "zh-TW": "修道院大門"
+  },
+  "TOWER_CELLAR_LEVEL_5": {
+    "en-US": "Tower Cellar Level 5",
+    "zh-CN": "高塔地窖五层",
+    "zh-TW": "高塔地牢第五層"
+  },
+  "TOWER_CELLAR_LEVEL_4": {
+    "en-US": "Tower Cellar Level 4",
+    "zh-CN": "高塔地窖四层",
+    "zh-TW": "高塔地牢第四層"
+  },
+  "TOWER_CELLAR_LEVEL_3": {
+    "en-US": "Tower Cellar Level 3",
+    "zh-CN": "高塔地窖三层",
+    "zh-TW": "高塔地牢第三層"
+  },
+  "TOWER_CELLAR_LEVEL_2": {
+    "en-US": "Tower Cellar Level 2",
+    "zh-CN": "高塔地窖二层",
+    "zh-TW": "高塔地牢第二層"
+  },
+  "TOWER_CELLAR_LEVEL_1": {
+    "en-US": "Tower Cellar Level 1",
+    "zh-CN": "高塔地窖一层",
+    "zh-TW": "高塔地牢第一層"
+  },
+  "FORGOTTEN_TOWER": {
+    "en-US": "Forgotten Tower",
+    "zh-CN": "被遗忘的高塔",
+    "zh-TW": "遺忘之塔"
+  },
+  "MAUSOLEUM": {
+    "en-US": "Mausoleum",
+    "zh-CN": "寝陵",
+    "zh-TW": "大陵墓"
+  },
+  "CRYPT": {
+    "en-US": "Crypt",
+    "zh-CN": "墓穴",
+    "zh-TW": "墓地"
+  },
+  "BURIAL_GROUNDS": {
+    "en-US": "Burial Grounds",
+    "zh-CN": "埋骨之地",
+    "zh-TW": "埋骨之地"
+  },
+  "PIT_LEVEL_2": {
+    "en-US": "Pit Level 2",
+    "zh-CN": "深坑二层",
+    "zh-TW": "地穴第二層"
+  },
+  "HOLE_LEVEL_2": {
+    "en-US": "Hole Level 2",
+    "zh-CN": "洞坑二层",
+    "zh-TW": "地洞第二層"
+  },
+  "UNDERGROUND_PASSAGE_LEVEL_2": {
+    "en-US": "Underground Passage Level 2",
+    "zh-CN": "地下通道二层",
+    "zh-TW": "地底通道第二層"
+  },
+  "CAVE_LEVEL_2": {
+    "en-US": "Cave Level 2",
+    "zh-CN": "洞穴二层",
+    "zh-TW": "洞穴第二層  洞穴"
+  },
+  "PIT_LEVEL_1": {
+    "en-US": "Pit Level 1",
+    "zh-CN": "深坑一层",
+    "zh-TW": "地穴第一層"
+  },
+  "HOLE_LEVEL_1": {
+    "en-US": "Hole Level 1",
+    "zh-CN": "洞坑一层",
+    "zh-TW": "地洞第一層"
+  },
+  "UNDERGROUND_PASSAGE_LEVEL_1": {
+    "en-US": "Underground Passage Level 1",
+    "zh-CN": "地下通道一层",
+    "zh-TW": "地底通道第一層"
+  },
+  "CAVE_LEVEL_1": {
+    "en-US": "Cave Level 1",
+    "zh-CN": "洞穴一层",
+    "zh-TW": "洞穴第一層"
+  },
+  "DEN_OF_EVIL": {
+    "en-US": "Den of Evil",
+    "zh-CN": "邪恶洞穴",
+    "zh-TW": "邪惡洞窟"
+  },
+  "TAMOE_HIGHLAND": {
+    "en-US": "Tamoe Highland",
+    "zh-CN": "泰摩高地",
+    "zh-TW": "泰摩高地"
+  },
+  "BLACK_MARSH": {
+    "en-US": "Black Marsh",
+    "zh-CN": "黑色沼泽",
+    "zh-TW": "黑色荒地"
+  },
+  "DARK_WOOD": {
+    "en-US": "Dark Wood",
+    "zh-CN": "黑暗森林",
+    "zh-TW": "黑暗森林"
+  },
+  "STONY_FIELD": {
+    "en-US": "Stony Field",
+    "zh-CN": "石块旷野",
+    "zh-TW": "亂石曠野"
+  },
+  "COLD_PLAINS": {
+    "en-US": "Cold Plains",
+    "zh-CN": "冰冷之原",
+    "zh-TW": "冰冷之原"
+  },
+  "BLOOD_MOOR": {
+    "en-US": "Blood Moor",
+    "zh-CN": "鲜血荒地",
+    "zh-TW": "鮮血荒地"
+  },
+  "ROGUE_ENCAMPMENT": {
+    "en-US": "Rogue Encampment",
+    "zh-CN": "流亡者营地",
+    "zh-TW": "俠盜營地"
+  },
+  "TO_TRISTRAM": {
+    "en-US": "To Tristram",
+    "zh-CN": "前往崔斯特姆",
+    "zh-TW": "前往崔斯特姆"
+  },
+  "TO_THE_CATACOMBS_LEVEL_4": {
+    "en-US": "To The Catacombs Level 4",
+    "zh-CN": "前往地下墓穴四层",
+    "zh-TW": "前往地下墓穴第四層"
+  },
+  "TO_THE_CATACOMBS_LEVEL_3": {
+    "en-US": "To The Catacombs Level 3",
+    "zh-CN": "前往地下墓穴三层",
+    "zh-TW": "前往地下墓穴第三層"
+  },
+  "TO_THE_CATACOMBS_LEVEL_2": {
+    "en-US": "To The Catacombs Level 2",
+    "zh-CN": "前往地下墓穴二层",
+    "zh-TW": "前往地下墓穴第二層"
+  },
+  "TO_THE_CATACOMBS_LEVEL_1": {
+    "en-US": "To The Catacombs Level 1",
+    "zh-CN": "前往地下墓穴一层",
+    "zh-TW": "前往地下墓穴第一層"
+  },
+  "TO_THE_CATHEDRAL": {
+    "en-US": "To The Cathedral",
+    "zh-CN": "前往大教堂",
+    "zh-TW": "前往大教堂"
+  },
+  "TO_THE_INNER_CLOISTER": {
+    "en-US": "To The Inner Cloister",
+    "zh-CN": "前往内侧回廊",
+    "zh-TW": "前往內側迴廊"
+  },
+  "TO_THE_JAIL_LEVEL_3": {
+    "en-US": "To The Jail Level 3",
+    "zh-CN": "前往监牢三层",
+    "zh-TW": "前往監牢第三層"
+  },
+  "TO_THE_JAIL_LEVEL_2": {
+    "en-US": "To The Jail Level 2",
+    "zh-CN": "前往监牢二层",
+    "zh-TW": "前往監牢第二層"
+  },
+  "TO_THE_JAIL_LEVEL_1": {
+    "en-US": "To The Jail Level 1",
+    "zh-CN": "前往监牢一层",
+    "zh-TW": "前往監牢第一層"
+  },
+  "TO_THE_BARRACKS": {
+    "en-US": "To The Barracks",
+    "zh-CN": "前往营房",
+    "zh-TW": "前往兵營"
+  },
+  "TO_THE_OUTER_CLOISTER": {
+    "en-US": "To The Outer Cloister",
+    "zh-CN": "前往外侧回廊",
+    "zh-TW": "前往外側迴廊"
+  },
+  "TO_THE_MONASTERY_GATE": {
+    "en-US": "To The Monastery Gate",
+    "zh-CN": "前往修道院大门",
+    "zh-TW": "前往修道院大門"
+  },
+  "TO_THE_TOWER_CELLAR_LEVEL_5": {
+    "en-US": "To The Tower Cellar Level 5",
+    "zh-CN": "前往高塔地窖五层",
+    "zh-TW": "前往高塔地牢第五層"
+  },
+  "TO_THE_TOWER_CELLAR_LEVEL_4": {
+    "en-US": "To The Tower Cellar Level 4",
+    "zh-CN": "前往高塔地窖四层",
+    "zh-TW": "前往高塔地牢第四層"
+  },
+  "TO_THE_TOWER_CELLAR_LEVEL_3": {
+    "en-US": "To The Tower Cellar Level 3",
+    "zh-CN": "前往高塔地窖三层",
+    "zh-TW": "前往高塔地牢第三層"
+  },
+  "TO_THE_TOWER_CELLAR_LEVEL_2": {
+    "en-US": "To The Tower Cellar Level 2",
+    "zh-CN": "前往高塔地窖二层",
+    "zh-TW": "前往高塔地牢第二層"
+  },
+  "TO_THE_TOWER_CELLAR_LEVEL_1": {
+    "en-US": "To The Tower Cellar Level 1",
+    "zh-CN": "前往高塔地窖一层",
+    "zh-TW": "前往高塔地牢第一層"
+  },
+  "TO_THE_FORGOTTEN_TOWER": {
+    "en-US": "To The Forgotten Tower",
+    "zh-CN": "前往被遗忘的高塔",
+    "zh-TW": "前往遺忘之塔"
+  },
+  "TO_THE_MAUSOLEUM": {
+    "en-US": "To The Mausoleum",
+    "zh-CN": "前往寝陵",
+    "zh-TW": "前往大陵墓"
+  },
+  "TO_THE_CRYPT": {
+    "en-US": "To The Crypt",
+    "zh-CN": "前往墓穴",
+    "zh-TW": "前往墓地"
+  },
+  "TO_THE_BURIAL_GROUNDS": {
+    "en-US": "To The Burial Grounds",
+    "zh-CN": "前往埋骨之地",
+    "zh-TW": "前往埋骨之地"
+  },
+  "TO_THE_PIT_LEVEL_2": {
+    "en-US": "To The Pit Level 2",
+    "zh-CN": "前往深渊二层",
+    "zh-TW": "前往地穴第二層"
+  },
+  "TO_THE_HOLE_LEVEL_2": {
+    "en-US": "To The Hole Level 2",
+    "zh-CN": "前往洞坑二层",
+    "zh-TW": "前往地洞第二層"
+  },
+  "TO_UNDERGROUND_PASSAGE_LEVEL_2": {
+    "en-US": "To Underground Passage Level 2",
+    "zh-CN": "前往地下通道二层",
+    "zh-TW": "前往地底通道第二層"
+  },
+  "TO_THE_CAVE_LEVEL_2": {
+    "en-US": "To The Cave Level 2",
+    "zh-CN": "前往洞穴二层",
+    "zh-TW": "前往洞穴第二層"
+  },
+  "TO_THE_PIT_LEVEL_1": {
+    "en-US": "To The Pit Level 1",
+    "zh-CN": "前往深渊一层",
+    "zh-TW": "前往地穴第一層"
+  },
+  "TO_THE_HOLE_LEVEL_1": {
+    "en-US": "To The Hole Level 1",
+    "zh-CN": "前往洞坑一层",
+    "zh-TW": "前往地洞第一層"
+  },
+  "TO_UNDERGROUND_PASSAGE_LEVEL_1": {
+    "en-US": "To Underground Passage Level 1",
+    "zh-CN": "前往地下通道一层",
+    "zh-TW": "前往地底通道第一層"
+  },
+  "TO_THE_CAVE_LEVEL_1": {
+    "en-US": "To The Cave Level 1",
+    "zh-CN": "前往洞穴一层",
+    "zh-TW": "前往洞穴第一層"
+  },
+  "TO_THE_DEN_OF_EVIL": {
+    "en-US": "To The Den of Evil",
+    "zh-CN": "前往邪恶洞穴",
+    "zh-TW": "前往邪惡洞窟"
+  },
+  "TO_THE_TAMOE_HIGHLAND": {
+    "en-US": "To The Tamoe Highland",
+    "zh-CN": "前往泰摩高地",
+    "zh-TW": "前往泰摩高地"
+  },
+  "TO_THE_BLACK_MARSH": {
+    "en-US": "To The Black Marsh",
+    "zh-CN": "前往黑色沼泽",
+    "zh-TW": "前往黑色荒地"
+  },
+  "TO_THE_DARK_WOOD": {
+    "en-US": "To The Dark Wood",
+    "zh-CN": "前往黑暗森林",
+    "zh-TW": "前往黑暗森林"
+  },
+  "TO_THE_STONY_FIELD": {
+    "en-US": "To The Stony Field",
+    "zh-CN": "前往石块旷野",
+    "zh-TW": "前往亂石曠野"
+  },
+  "TO_THE_COLD_PLAINS": {
+    "en-US": "To The Cold Plains",
+    "zh-CN": "前往冰冷之原",
+    "zh-TW": "前往冰冷之原"
+  },
+  "TO_THE_BLOOD_MOOR": {
+    "en-US": "To The Blood Moor",
+    "zh-CN": "前往鲜血荒地",
+    "zh-TW": "前往鮮血荒地"
+  },
+  "TO_THE_ROGUE_ENCAMPMENT": {
+    "en-US": "To The Rogue Encampment",
+    "zh-CN": "前往流亡者营地",
+    "zh-TW": "前往俠盜營地"
+  },
+  "HELL": {
+    "en-US": "Hell",
+    "zh-CN": "地狱",
+    "zh-TW": "地獄"
+  },
+  "NIGHTMARE": {
+    "en-US": "Nightmare",
+    "zh-CN": "噩梦",
+    "zh-TW": "惡夢"
+  },
+  "NORMAL": {
+    "en-US": "Normal",
+    "zh-CN": "普通",
+    "zh-TW": "普通"
+  },
+  "ABADDON": {
+    "en-US": "Abaddon",
+    "zh-CN": "亚巴顿",
+    "zh-TW": "亞巴頓"
+  },
+  "PIT_OF_ACHERON": {
+    "en-US": "Pit of Acheron",
+    "zh-CN": "阿克隆深渊",
+    "zh-TW": "冥河地穴"
+  },
+  "INFERNAL_PIT": {
+    "en-US": "Infernal Pit",
+    "zh-CN": "炼狱深渊",
+    "zh-TW": "煉獄地穴"
+  },
+  "HARROGATH": {
+    "en-US": "Harrogath",
+    "zh-CN": "哈洛加斯",
+    "zh-TW": "哈洛加斯"
+  },
+  "BLOODY_FOOTHILLS": {
+    "en-US": "Bloody Foothills",
+    "zh-CN": "血腥丘陵",
+    "zh-TW": "血腥丘陵"
+  },
+  "FRIGID_HIGHLANDS": {
+    "en-US": "Frigid Highlands",
+    "zh-CN": "冰冻高地",
+    "zh-TW": "冰凍高地"
+  },
+  "ARREAT_PLATEAU": {
+    "en-US": "Arreat Plateau",
+    "zh-CN": "亚瑞特高原",
+    "zh-TW": "亞瑞特高原"
+  },
+  "CRYSTALLINE_PASSAGE": {
+    "en-US": "Crystalline Passage",
+    "zh-CN": "水晶通道",
+    "zh-TW": "水晶通道"
+  },
+  "FROZEN_RIVER": {
+    "en-US": "Frozen River",
+    "zh-CN": "冰冻之河",
+    "zh-TW": "冰凍之河"
+  },
+  "GLACIAL_TRAIL": {
+    "en-US": "Glacial Trail",
+    "zh-CN": "冰川小径",
+    "zh-TW": "冰河小徑"
+  },
+  "DRIFTER_CAVERN": {
+    "en-US": "Drifter Cavern",
+    "zh-CN": "漂流洞窟",
+    "zh-TW": "漂泊者洞窟"
+  },
+  "FROZEN_TUNDRA": {
+    "en-US": "Frozen Tundra",
+    "zh-CN": "冰冻苔原",
+    "zh-TW": "冰凍苔原"
+  },
+  "THE_ANCIENTS_WAY": {
+    "en-US": "The Ancients' Way",
+    "zh-CN": "先祖之路",
+    "zh-TW": "先祖之路"
+  },
+  "ICY_CELLAR": {
+    "en-US": "Icy Cellar",
+    "zh-CN": "寒冰地窖",
+    "zh-TW": "冰窖"
+  },
+  "ARREAT_SUMMIT": {
+    "en-US": "Arreat Summit",
+    "zh-CN": "亚瑞特之巅",
+    "zh-TW": "亞瑞特山巔"
+  },
+  "NIHLATHAKS_TEMPLE": {
+    "en-US": "Nihlathak's Temple",
+    "zh-CN": "尼拉塞克的神殿",
+    "zh-TW": "尼拉塞克的神殿"
+  },
+  "HALLS_OF_ANGUISH": {
+    "en-US": "Halls of Anguish",
+    "zh-CN": "痛楚大厅",
+    "zh-TW": "怨慟之廳"
+  },
+  "HALLS_OF_PAIN": {
+    "en-US": "Halls of Pain",
+    "zh-CN": "苦痛大厅",
+    "zh-TW": "苦痛之廳"
+  },
+  "HALLS_OF_TORMENT": {
+    "en-US": "Halls of Torment",
+    "zh-CN": "折磨大厅",
+    "zh-TW": "折磨之廳"
+  },
+  "HALLS_OF_VAUGHT": {
+    "en-US": "Halls of Vaught",
+    "zh-CN": "沃特大厅",
+    "zh-TW": "沃特之廳"
+  },
+  "WORLDSTONE_KEEP_LEVEL_1": {
+    "en-US": "Worldstone Keep Level 1",
+    "zh-CN": "世界之石要塞一层",
+    "zh-TW": "世界之石要塞第一層"
+  },
+  "WORLDSTONE_KEEP_LEVEL_2": {
+    "en-US": "Worldstone Keep Level 2",
+    "zh-CN": "世界之石要塞二层",
+    "zh-TW": "世界之石要塞第二層"
+  },
+  "WORLDSTONE_KEEP_LEVEL_3": {
+    "en-US": "Worldstone Keep Level 3",
+    "zh-CN": "世界之石要塞三层",
+    "zh-TW": "世界之石要塞第三層"
+  },
+  "THE_WORLDSTONE_CHAMBER": {
+    "en-US": "The Worldstone Chamber",
+    "zh-CN": "世界之石大殿",
+    "zh-TW": "世界之石大殿"
+  },
+  "THRONE_OF_DESTRUCTION": {
+    "en-US": "Throne of Destruction",
+    "zh-CN": "毁灭王座",
+    "zh-TW": "毀滅王座"
+  },
+  "TO_HARROGATH": {
+    "en-US": "To Harrogath",
+    "zh-CN": "前往哈洛加斯",
+    "zh-TW": "前往哈洛加斯"
+  },
+  "TO_THE_BLOODY_FOOTHILLS": {
+    "en-US": "To The Bloody Foothills",
+    "zh-CN": "前往血腥丘陵",
+    "zh-TW": "前往血腥丘陵"
+  },
+  "TO_THE_FRIGID_HIGHLANDS": {
+    "en-US": "To The Frigid Highlands",
+    "zh-CN": "前往冰冻高地",
+    "zh-TW": "前往冰凍高地"
+  },
+  "TO_THE_ARREAT_PLATEAU": {
+    "en-US": "To The Arreat Plateau",
+    "zh-CN": "前往亚瑞特高原",
+    "zh-TW": "前往亞瑞特高原"
+  },
+  "TO_THE_CRYSTALLINE_PASSAGE": {
+    "en-US": "To The Crystalline Passage",
+    "zh-CN": "前往水晶通道",
+    "zh-TW": "前往水晶通道"
+  },
+  "TO_THE_FROZEN_RIVER": {
+    "en-US": "To The Frozen River",
+    "zh-CN": "前往冰冻之河",
+    "zh-TW": "前往冰凍之河"
+  },
+  "TO_THE_GLACIAL_TRAIL": {
+    "en-US": "To The Glacial Trail",
+    "zh-CN": "前往冰川小径",
+    "zh-TW": "前往冰河小徑"
+  },
+  "TO_THE_DRIFTER_CAVERN": {
+    "en-US": "To The Drifter Cavern",
+    "zh-CN": "前往漂流洞窟",
+    "zh-TW": "前往漂泊者洞窟"
+  },
+  "TO_THE_FROZEN_TUNDRA": {
+    "en-US": "To The Frozen Tundra",
+    "zh-CN": "前往冰冻苔原",
+    "zh-TW": "前往冰凍苔原"
+  },
+  "TO_THE_ANCIENTS_WAY": {
+    "en-US": "To The Ancients' Way",
+    "zh-CN": "前往先祖之路",
+    "zh-TW": "前往先祖之路"
+  },
+  "TO_THE_ICY_CELLAR": {
+    "en-US": "To The Icy Cellar",
+    "zh-CN": "前往寒冰地窖",
+    "zh-TW": "前往冰窖"
+  },
+  "TO_THE_ARREAT_SUMMIT": {
+    "en-US": "To The Arreat Summit",
+    "zh-CN": "前往亚瑞特之巅",
+    "zh-TW": "前往亞瑞特山巔"
+  },
+  "TO_NIHLATHAKS_TEMPLE": {
+    "en-US": "To Nihlathak's Temple",
+    "zh-CN": "前往尼拉塞克的神殿",
+    "zh-TW": "前往尼拉塞克的神殿"
+  },
+  "TO_THE_HALLS_OF_ANGUISH": {
+    "en-US": "To The Halls of Anguish",
+    "zh-CN": "前往痛楚大厅",
+    "zh-TW": "前往怨慟之廳"
+  },
+  "TO_THE_HALLS_OF_PAIN": {
+    "en-US": "To The Halls of Pain",
+    "zh-CN": "前往苦痛大厅",
+    "zh-TW": "前往苦痛之廳"
+  },
+  "TO_THE_HALLS_OF_TORMENT": {
+    "en-US": "To The Halls of Torment",
+    "zh-CN": "前往折磨大厅",
+    "zh-TW": "前往折磨之廳"
+  },
+  "TO_THE_HALLS_OF_VAUGHT": {
+    "en-US": "To The Halls of Vaught",
+    "zh-CN": "前往沃特大厅",
+    "zh-TW": "前往沃特之廳"
+  },
+  "TO_THE_WORLDSTONE_KEEP_LEVEL_1": {
+    "en-US": "To The Worldstone Keep Level 1",
+    "zh-CN": "前往世界之石要塞一层",
+    "zh-TW": "前往世界之石要塞第一層"
+  },
+  "TO_THE_WORLDSTONE_KEEP_LEVEL_2": {
+    "en-US": "To The Worldstone Keep Level 2",
+    "zh-CN": "前往世界之石要塞二层",
+    "zh-TW": "前往世界之石要塞第二層"
+  },
+  "TO_THE_WORLDSTONE_KEEP_LEVEL_3": {
+    "en-US": "To The Worldstone Keep Level 3",
+    "zh-CN": "前往世界之石要塞三层",
+    "zh-TW": "前往世界之石要塞第三層"
+  },
+  "TO_THE_WORLDSTONE_CHAMBER": {
+    "en-US": "To The Worldstone Chamber",
+    "zh-CN": "前往世界之石大殿",
+    "zh-TW": "前往世界之石大殿"
+  },
+  "TO_THE_THRONE_OF_DESTRUCTION": {
+    "en-US": "To The Throne of Destruction",
+    "zh-CN": "前往毁灭王座",
+    "zh-TW": "前往毀滅王座"
+  },
+  "TRAVEL_TO_HARROGATH": {
+    "en-US": "travel to harrogath",
+    "zh-CN": "前往哈洛加斯",
+    "zh-TW": "前往哈洛加斯"
+  },
+  "MATRONS_DEN": {
+    "en-US": "Matron's Den",
+    "zh-CN": "主母的巢穴",
+    "zh-TW": "魔母巢穴"
+  },
+  "FORGOTTEN_SANDS": {
+    "en-US": "Forgotten Sands",
+    "zh-CN": "遗忘的沙丘",
+    "zh-TW": "遺忘沙漠"
+  },
+  "FURNACE_OF_PAIN": {
+    "en-US": "Furnace of Pain",
+    "zh-CN": "苦痛的熔炉",
+    "zh-TW": "苦痛熔爐"
+  },
+  "UBER_TRISTRAM": {
+    "en-US": "Uber Tristram",
+    "zh-CN": "",
+    "zh-TW": ""
+  },
+  "道具": {
+    "en-US": "道具",
+    "zh-CN": "",
+    "zh-TW": "木桶"
+  },
+  "WORLDSTONE_KEEP": {
+    "en-US": "Worldstone Keep",
+    "zh-CN": "世界之石要塞",
+    "zh-TW": "世界之石要塞"
+  },
+  "WORLDSTONE_CHAMBER": {
+    "en-US": "Worldstone Chamber",
+    "zh-CN": "世界之石大殿",
+    "zh-TW": "世界之石大殿"
+  },
+  "FORGOTTEN_TOWER": { "en-US": "Forgotten Tower", "zh-CN": "遗忘高塔", "zh-TW": "遺忘高塔" },
+  "JAIL": { "en-US": "Jail", "zh-CN": "监牢", "zh-TW": "監牢" },
+  "CATACOMBS": { "en-US": "Catacombs", "zh-CN": "地下墓穴", "zh-TW": "地下墓穴" },
+  "THE_PIT": { "en-US": "The Pit", "zh-CN": "地穴", "zh-TW": "地穴" },
+  "PIT": { "en-US": "Pit", "zh-CN": "地穴", "zh-TW": "地穴" },
+  "SEWERS": { "en-US": "Sewers", "zh-CN": "下水道", "zh-TW": "下水道" },
+  "STONY_TOMB": { "en-US": "Stony Tomb", "zh-CN": "石制古墓", "zh-TW": "碎石古墓" },
+  "HALLS_OF_THE_DEAD": { "en-US": "Halls of the Dead", "zh-CN": "死亡之殿", "zh-TW": "死亡之殿" },
+  "CLAW_VIPER_TEMPLE": { "en-US": "Claw Viper Temple", "zh-CN": "利爪蝮蛇神殿", "zh-TW": "利爪蝮蛇神殿" },
+  "HAREM": { "en-US": "Harem", "zh-CN": "后宫", "zh-TW": "後宮" },
+  "PALACE_CELLAR": { "en-US": "Palace Cellar", "zh-CN": "皇宫监牢", "zh-TW": "皇宮監牢" },
+  "TAL_RASHAS_TOMBS": { "en-US": "Tal Rasha's Tombs", "zh-CN": "塔·拉夏的古墓", "zh-TW": "塔·拉夏的古墓" },
+  "TAL_RASHAS_TOMB": { "en-US": "Tal Rasha's Tomb", "zh-CN": "塔·拉夏的古墓", "zh-TW": "塔·拉夏的古墓" },
+  "FLAYER_DUNGEON": { "en-US": "Flayer Dungeon", "zh-CN": "剥皮地窖", "zh-TW": "剝皮地窖" },
+  "DURANCE_OF_HATE": { "en-US": "Durance of Hate", "zh-CN": "憎恨的囚牢", "zh-TW": "憎恨的囚牢" }
+}
