@@ -55,6 +55,8 @@ _ReSharper*/
 appsettings.Development.json
 appsettings.Local.json
 local.settings.json
+*便携规则*.md
+*规则*.md
 
 ## =========================================================================
 ## 运行时与系统临时文件 (Logs, Temp & OS Files)
