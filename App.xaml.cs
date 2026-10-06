@@ -12,6 +12,11 @@ namespace D2RTerrorZone
         private TerrorZoneService _tzService;
         private OverlayWindow _overlayWindow;
 
+        static App()
+        {
+            AppContext.SetSwitch("Switch.System.Windows.Input.Stylus.DisableStylusAndTouchSupport", true);
+        }
+
         protected override void OnStartup(StartupEventArgs e)
         {
             base.OnStartup(e);

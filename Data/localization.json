@@ -1378,5 +1378,100 @@
     "en-US": "Lut Gholein Sewers",
     "zh-CN": "鲁高因下水道",
     "zh-TW": "魯高因下水道"
+  },
+  "ANCIENTS_WAY": {
+    "en-US": "Ancients' Way",
+    "zh-CN": "先祖之路",
+    "zh-TW": "先祖之路"
+  },
+  "THE_BLOOD_MOOR": {
+    "en-US": "The Blood Moor",
+    "zh-CN": "鲜血荒地",
+    "zh-TW": "鮮血荒地"
+  },
+  "CAVE": {
+    "en-US": "Cave",
+    "zh-CN": "洞窟",
+    "zh-TW": "洞窟"
+  },
+  "THE_CRYPT": {
+    "en-US": "The Crypt",
+    "zh-CN": "墓穴",
+    "zh-TW": "墓地"
+  },
+  "UNDERGROUND_PASSAGE": {
+    "en-US": "Underground Passage",
+    "zh-CN": "地下通道",
+    "zh-TW": "地底通道"
+  },
+  "THE_HOLE": {
+    "en-US": "The Hole",
+    "zh-CN": "地穴",
+    "zh-TW": "洞穴"
+  },
+  "HOLE": {
+    "en-US": "Hole",
+    "zh-CN": "地穴",
+    "zh-TW": "洞穴"
+  },
+  "THE_FORGOTTEN_TOWER": {
+    "en-US": "The Forgotten Tower",
+    "zh-CN": "遗忘之塔",
+    "zh-TW": "遺忘之塔"
+  },
+  "TOWER_CELLAR": {
+    "en-US": "Tower Cellar",
+    "zh-CN": "高塔地牢",
+    "zh-TW": "高塔地牢"
+  },
+  "THE_CATHEDRAL": {
+    "en-US": "The Cathedral",
+    "zh-CN": "大教堂",
+    "zh-TW": "大教堂"
+  },
+  "SECRET_COW_LEVEL": {
+    "en-US": "Secret Cow Level",
+    "zh-CN": "秘密母牛关卡",
+    "zh-TW": "秘密乳牛關"
+  },
+  "MOO_MOO_FARM": {
+    "en-US": "Moo Moo Farm",
+    "zh-CN": "秘密母牛关卡",
+    "zh-TW": "秘密乳牛關"
+  },
+  "ANCIENTS_TUNNELS": {
+    "en-US": "Ancient's Tunnels",
+    "zh-CN": "古代通道",
+    "zh-TW": "古代通道"
+  },
+  "TAL_RASHA_TOMBS": {
+    "en-US": "Tal Rasha Tombs",
+    "zh-CN": "塔·拉夏的古墓",
+    "zh-TW": "塔·拉夏的古墓"
+  },
+  "TAL_RASHA_CHAMBER": {
+    "en-US": "Tal Rasha Chamber",
+    "zh-CN": "塔·拉夏的古墓房间",
+    "zh-TW": "塔·拉夏的古墓房間"
+  },
+  "CHAOS_SANCTUARY": {
+    "en-US": "Chaos Sanctuary",
+    "zh-CN": "混沌避难所",
+    "zh-TW": "混沌魔殿"
+  },
+  "THE_BLOODY_FOOTHILLS": {
+    "en-US": "The Bloody Foothills",
+    "zh-CN": "血腥丘陵",
+    "zh-TW": "血腥丘陵"
+  },
+  "TEMPLE_HALLS": {
+    "en-US": "Temple Halls",
+    "zh-CN": "神殿大厅",
+    "zh-TW": "神殿大廳"
+  },
+  "THE_WORLDSTONE_KEEP": {
+    "en-US": "The Worldstone Keep",
+    "zh-CN": "世界之石要塞",
+    "zh-TW": "世界之石要塞"
   }
 }
